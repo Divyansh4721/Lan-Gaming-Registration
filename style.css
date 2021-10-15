@@ -1,6 +1,9 @@
 body {
     margin: 0;
     font-family: Algerian;
+    padding: 0;
+    height: 100vh;
+    user-select: none;
     color: wheat;
 }
 
@@ -11,8 +14,6 @@ body {
 a{
 }
 #box{
-    display: flex;
-    justify-content: center;
 
 }
 #event{

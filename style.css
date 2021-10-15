@@ -3,7 +3,6 @@ body {
     font-family: Algerian;
     padding: 0;
     height: 100vh;
-    user-select: none;
     color: wheat;
     background-repeat: no-repeat;
     background-size: cover;
@@ -14,15 +13,15 @@ body {
     padding-top: 70px;
 }
 
-#event{
+#event {
     font-size: 120px;
     font-weight: bold;
     margin: 130px;
     color: white;
     margin-bottom: 30px;
-    
 }
-#info{
+
+#info {
     font-size: 25px;
     font-family: sans-serif;
 }

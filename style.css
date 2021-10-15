@@ -23,12 +23,10 @@ a{
     font-weight: bold;
     margin: 170px;
     color: white;
+    margin-bottom: 0px;
     
 }
 #info{
-    position: absolute;
-    right: 20px;
-    bottom: 20px;
     font-size: 25px;
     font-family: sans-serif;
 }

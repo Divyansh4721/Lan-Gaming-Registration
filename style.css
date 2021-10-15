@@ -13,17 +13,13 @@ body {
     font-size: 100px;
     padding-top: 70px;
 }
-a{
-}
-#box{
 
-}
 #event{
     font-size: 120px;
     font-weight: bold;
-    margin: 170px;
+    margin: 130px;
     color: white;
-    margin-bottom: 0px;
+    margin-bottom: 30px;
     
 }
 #info{

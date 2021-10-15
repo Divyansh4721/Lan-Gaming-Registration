@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: Algerian;
+    color: wheat;
+}
+
+#heading {
+    font-size: 100px;
+    padding-top: 70px;
+}
+a{
+}
+#box{
+    display: flex;
+    justify-content: center;
+
+}
+#event{
+    font-size: 120px;
+    font-weight: bold;
+    margin: 170px;
+    color: white;
+}
